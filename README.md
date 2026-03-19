@@ -1,20 +1,20 @@
 # Hi 👋, I'm Ioannis Karkalas
- 
-### I'm a software engineer who loves clean code, weird problems, and building things that actually work. Currently pursuing my MSc in Computer Science and Engineering @ DTU, previously BSc in Digital Systems @ University of Thessaly.
- 
+
+### A software engineer who loves clean code, weird problems, and building things that actually work. Currently pursuing my MSc in Computer Science and Engineering @ DTU, previously BSc in Digital Systems @ University of Thessaly.
+
 [![Coding](coding.gif)](coding.gif)
- 
+
 [![Profile Views](https://komarev.com/ghpvc/?username=retr0sity&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/retr0sity)
- 
+
 - MSc student @ **Denmark Technical University (DTU)** — specializing in Software Engineering
 - Built a **voice-activated grading app** for my BSc thesis using Unity + OpenAI Whisper
 - ⚡ Fun fact: **I spend my free time watching CS YouTubers and reverse-engineering how they think (also random ricing videos)**
- 
+
 ### Connect with me:
- 
+
 <a href="https://www.linkedin.com/in/ioannis-karkalas/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/></a> &nbsp;
 <a href="https://www.instagram.com/svelto_hotza/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
- 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -36,9 +36,11 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
- 
+
 [![retr0sity](https://github-readme-stats.vercel.app/api/top-langs?username=retr0sity&show_icons=true&locale=en&layout=compact)](https://github.com/retr0sity)
- 
+
 [![retr0sity](https://github-readme-stats.vercel.app/api?username=retr0sity&show_icons=true&locale=en)](https://github.com/retr0sity)
- 
+
 [![retr0sity](https://github-readme-streak-stats.herokuapp.com/?user=retr0sity)](https://github.com/retr0sity)
+
+![snake gif](https://raw.githubusercontent.com/retr0sity/retr0sity/output/github-contribution-grid-snake.svg)
