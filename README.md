@@ -8,7 +8,7 @@
 
 - MSc student @ **Denmark Technical University (DTU)** — specializing in Cybersecurity
 - Built a **voice-activated grading app** for my BSc thesis using Unity + OpenAI Whisper
-- Fun fact: **I spend my free time watching CS YouTubers and reverse-engineering how they think (also random ricing videos)**
+- Fun fact: **I spend my free time watching CS YouTubers and reverse engineering how they think (also random gaming and ricing videos)**
 
 ### Connect with me:
 
