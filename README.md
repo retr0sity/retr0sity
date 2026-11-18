@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ioannis Karkalas
 
-### A software engineer who loves clean code, weird problems, and building things. Currently pursuing my MSc in Computer Science and Engineering @ DTU, previously BSc in Digital Systems @ University of Thessaly.
+### A Computer Science student who loves clean code, weird problems, and dissecting things. Currently pursuing my MSc in Computer Science and Engineering @ DTU, previously BSc in Digital Systems @ University of Thessaly.
 
 [![Coding](coding.gif)](coding.gif)
 
