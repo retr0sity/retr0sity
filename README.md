@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ioannis-karkalas/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/></a> &nbsp;
-<a href="https://www.instagram.com/svelto_hotza/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
+<a href="https://www.instagram.com/sudotech_cph/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
